@@ -7,6 +7,6 @@ layout: default
 
 
 
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
+Fill out [this form](https://form.jotform.com/202017830237042) to report discrimination.
 
 <hr>
