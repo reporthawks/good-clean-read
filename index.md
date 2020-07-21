@@ -4,9 +4,12 @@ layout: default
 ## We hope to fully bring to light the pattern of inequity that Highland, and to a greater extent Gilbert Public Schools, remains reluctant to address.
 
 ### Take action *NOW*:
-📝 Help document the pattern of discrimination! Please fill out [this form](https://form.jotform.com/202017830237042) to report *your* firsthand experience of discrimination at Highland High School.
-📫 Check back for "*Report Your Local Racist:* Preformatted emails"
-🔗 Share this website with your friends!
+
+  📝 Help document the pattern of discrimination! Please fill out [this form](https://form.jotform.com/202017830237042) to report *your* firsthand experience of discrimination at Highland High School.
+  
+  📫 Check back for "*Report Your Local Racist:* Preformatted emails"
+  
+  🔗 Share this website with your friends!
 
 
 
