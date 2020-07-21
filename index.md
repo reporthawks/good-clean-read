@@ -6,3 +6,4 @@ layout: default
 
 ### Fill out [this form](https://form.jotform.com/202017830237042) to report discrimination at Highland High School.
 
+##### 📍 Gilbert, Arizona
