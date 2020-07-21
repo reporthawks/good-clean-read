@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-  
-#### Help catalyze social change:
+## It is necessary that we hold Highland accountable for tolerating racism. 
 
-📝 Fill out [this form](https://form.jotform.com/202017830237042) to report your firsthand experience of discrimination at Highland High School
- 
-📬 *Report Your Local Racist:* Preformatted emails coming soon!
+#### How *you* can help catalyze social change:
+- [ ] Fill out [this form](https://form.jotform.com/202017830237042) to report your firsthand experience of discrimination at Highland High School
+- [ ] Check back in here for "*Report Your Local Racist:* Preformatted emails"
  
   
 ---
