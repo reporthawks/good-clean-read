@@ -10,5 +10,6 @@ layout: default
  
   
 ---
-<sup><sub>📍 Gilbert, Arizona</sub></sup>
+<small>📍 Gilbert, Arizona <small>
+
 <sup><sub> Theme by [adeuck](https://github.com/adueck/good-clean-read)</sub></sup>
