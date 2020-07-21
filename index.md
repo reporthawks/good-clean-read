@@ -9,5 +9,6 @@ layout: default
 📬 *Report Your Local Racist:* Preformatted emails coming soon!
  
   
-
+---
 📍 Gilbert, Arizona
+<sup></sup>Theme by adeuck [https://github.com/adueck/good-clean-read] sub></sub>
