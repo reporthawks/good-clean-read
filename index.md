@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
   
 #### Help catalyze social change:
