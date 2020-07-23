@@ -7,8 +7,7 @@ layout: default
 
   📝 Help document the pattern of discrimination! Please fill out [this form](https://form.jotform.com/202017830237042) to report *your* firsthand experience of discrimination at Highland High School.
   
-  📫 Check back for *Report Your Local Racist*, a preformatted email database that streamlines reporting racist students to their employers and colleges.
-  
+  📫 Check back for *Report Your Local Racist*, a preformatted email database that streamlines reporting racist students to their employers and colleges. [View the images on file](https://github.com/reporthawks/reportyourlocal/tree/master/images/2020)  
   🔗 Share this website with your friends!
 
 
